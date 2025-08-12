@@ -1,0 +1,168 @@
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\dll\x86\opencv_videoio_ffmpeg4110.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\dll\x64\opencv_videoio_ffmpeg4110_64.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\onnxruntime.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\onnxruntime_providers_shared.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\x86\leptonica-1.82.0.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\x86\tesseract50.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\x64\leptonica-1.82.0.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\x64\tesseract50.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\GateVision.exe.config
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\GateVision.exe
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\GateVision.pdb
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\Dapper.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.Data.Desktop.v24.2.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.Data.v24.2.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.Drawing.v24.2.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.Printing.v24.2.Core.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.Utils.v24.2.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.XtraBars.v24.2.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.XtraEditors.v24.2.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.XtraGrid.v24.2.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.XtraLayout.v24.2.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.XtraPrinting.v24.2.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\Microsoft.ML.OnnxRuntime.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\OpenCvSharp.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\System.Buffers.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\System.Data.SQLite.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\System.Drawing.Common.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\System.Memory.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\Tesseract.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.Pdf.v24.2.Core.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.Pdf.v24.2.Drawing.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.Sparkline.v24.2.Core.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.RichEdit.v24.2.Core.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.XtraTreeList.v24.2.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.Office.v24.2.Core.dll
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\Dapper.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.Data.v24.2.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.Drawing.v24.2.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.Utils.v24.2.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.XtraBars.v24.2.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.XtraEditors.v24.2.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.XtraGrid.v24.2.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.XtraLayout.v24.2.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.XtraPrinting.v24.2.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\Microsoft.ML.OnnxRuntime.pdb
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\OpenCvSharp.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\System.Buffers.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\System.Data.SQLite.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\System.Drawing.Common.pdb
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\System.Drawing.Common.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\System.Memory.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.Sparkline.v24.2.Core.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.RichEdit.v24.2.Core.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.XtraTreeList.v24.2.xml
+C:\Users\CyberX\source\repos\GateVision\bin\Debug\DevExpress.Office.v24.2.Core.xml
+C:\Users\CyberX\source\repos\GateVision\obj\Debug\GateVision.csproj.AssemblyReference.cache
+C:\Users\CyberX\source\repos\GateVision\obj\Debug\GateVision.Forms.FrmBeyazListe.resources
+C:\Users\CyberX\source\repos\GateVision\obj\Debug\GateVision.Forms.FrmAnasayfa.resources
+C:\Users\CyberX\source\repos\GateVision\obj\Debug\GateVision.Forms.MainForm.resources
+C:\Users\CyberX\source\repos\GateVision\obj\Debug\GateVision.Properties.Resources.resources
+C:\Users\CyberX\source\repos\GateVision\obj\Debug\GateVision.csproj.GenerateResource.cache
+C:\Users\CyberX\source\repos\GateVision\obj\Debug\GateVision.exe.licenses
+C:\Users\CyberX\source\repos\GateVision\obj\Debug\GateVision.csproj.CoreCompileInputs.cache
+C:\Users\CyberX\source\repos\GateVision\obj\Debug\GateVision.csproj.Up2Date
+C:\Users\CyberX\source\repos\GateVision\obj\Debug\GateVision.exe
+C:\Users\CyberX\source\repos\GateVision\obj\Debug\GateVision.pdb
+D:\Projeler\Plaka Okuma\GateVision - Kopya\obj\Debug\GateVision.csproj.AssemblyReference.cache
+D:\Projeler\Plaka Okuma\GateVision - Kopya\obj\Debug\GateVision.Forms.FrmBeyazListe.resources
+D:\Projeler\Plaka Okuma\GateVision - Kopya\obj\Debug\GateVision.Forms.FrmAnasayfa.resources
+D:\Projeler\Plaka Okuma\GateVision - Kopya\obj\Debug\GateVision.Forms.MainForm.resources
+D:\Projeler\Plaka Okuma\GateVision - Kopya\obj\Debug\GateVision.Properties.Resources.resources
+D:\Projeler\Plaka Okuma\GateVision - Kopya\obj\Debug\GateVision.csproj.GenerateResource.cache
+D:\Projeler\Plaka Okuma\GateVision - Kopya\obj\Debug\GateVision.exe.licenses
+D:\Projeler\Plaka Okuma\GateVision - Kopya\obj\Debug\GateVision.csproj.CoreCompileInputs.cache
+D:\Projeler\Plaka Okuma\GateVision - Kopya\obj\Debug\GateVision.exe
+D:\Projeler\Plaka Okuma\GateVision - Kopya\obj\Debug\GateVision.pdb
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\dll\x86\opencv_videoio_ffmpeg4110.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\dll\x64\opencv_videoio_ffmpeg4110_64.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\onnxruntime.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\onnxruntime_providers_shared.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\x86\leptonica-1.82.0.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\x86\tesseract50.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\x64\leptonica-1.82.0.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\x64\tesseract50.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\GateVision.exe.config
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\GateVision.exe
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\GateVision.pdb
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\Dapper.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.Data.Desktop.v25.1.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.Data.v25.1.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.Drawing.v25.1.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.Printing.v25.1.Core.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.Utils.v25.1.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.XtraBars.v25.1.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.XtraEditors.v25.1.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.XtraGrid.v25.1.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.XtraLayout.v25.1.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.XtraPrinting.v25.1.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\Microsoft.ML.OnnxRuntime.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\OpenCvSharp.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\OpenCvSharp.WpfExtensions.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\System.Buffers.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\System.Data.SQLite.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\System.Memory.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\System.Numerics.Vectors.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\Tesseract.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.Pdf.v25.1.Core.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.Pdf.v25.1.Drawing.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.Sparkline.v25.1.Core.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.RichEdit.v25.1.Core.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.XtraTreeList.v25.1.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.Office.v25.1.Core.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\Dapper.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.Data.Desktop.v25.1.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.Data.v25.1.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.Drawing.v25.1.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.Printing.v25.1.Core.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.Utils.v25.1.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.XtraBars.v25.1.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.XtraEditors.v25.1.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.XtraGrid.v25.1.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.XtraLayout.v25.1.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.XtraPrinting.v25.1.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\Microsoft.ML.OnnxRuntime.pdb
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\OpenCvSharp.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\OpenCvSharp.Extensions.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\OpenCvSharp.WpfExtensions.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\System.Buffers.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\System.Data.SQLite.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\System.Memory.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\System.Numerics.Vectors.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.Pdf.v25.1.Core.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.Pdf.v25.1.Drawing.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.Sparkline.v25.1.Core.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.RichEdit.v25.1.Core.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.XtraTreeList.v25.1.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\DevExpress.Office.v25.1.Core.xml
+D:\Projeler\Plaka Okuma\GateVision - Kopya\obj\Debug\GateVision.csproj.CopyComplete
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\System.Drawing.Common.dll
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\System.Drawing.Common.pdb
+D:\Projeler\Plaka Okuma\GateVision - Kopya\bin\Debug\System.Drawing.Common.xml
